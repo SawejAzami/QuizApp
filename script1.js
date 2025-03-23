@@ -16,61 +16,61 @@ document.addEventListener('DOMContentLoaded',()=>{
         ],
         answer: "William Shakespeare",
       },
-    //   {
-    //     question: "Which planet is known as the Red Planet?",
-    //     options: ["Earth", "Mars", "Jupiter", "Venus"],
-    //     answer: "Mars",
-    //   },
-    //   {
-    //     question: "What is the largest ocean on Earth?",
-    //     options: [
-    //       "Atlantic Ocean",
-    //       "Indian Ocean",
-    //       "Arctic Ocean",
-    //       "Pacific Ocean",
-    //     ],
-    //     answer: "Pacific Ocean",
-    //   },
-    //   {
-    //     question: "Who invented the telephone?",
-    //     options: [
-    //       "Alexander Graham Bell",
-    //       "Nikola Tesla",
-    //       "Thomas Edison",
-    //       "Albert Einstein",
-    //     ],
-    //     answer: "Alexander Graham Bell",
-    //   },
-    //   {
-    //     question: "Which element is represented by the symbol 'O'?",
-    //     options: ["Oxygen", "Gold", "Silver", "Iron"],
-    //     answer: "Oxygen",
-    //   },
-    //   {
-    //     question: "Who was the first person to walk on the Moon?",
-    //     options: [
-    //       "Buzz Aldrin",
-    //       "Neil Armstrong",
-    //       "Yuri Gagarin",
-    //       "Michael Collins",
-    //     ],
-    //     answer: "Neil Armstrong",
-    //   },
-    //   {
-    //     question: "Which gas do plants absorb from the atmosphere?",
-    //     options: ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
-    //     answer: "Carbon Dioxide",
-    //   },
-    //   {
-    //     question: "What is the hardest natural substance on Earth?",
-    //     options: ["Gold", "Iron", "Diamond", "Quartz"],
-    //     answer: "Diamond",
-    //   },
-    //   {
-    //     question: "What is the currency of Japan?",
-    //     options: ["Yuan", "Ringgit", "Yen", "Won"],
-    //     answer: "Yen",
-    //   },
+      {
+        question: "Which planet is known as the Red Planet?",
+        options: ["Earth", "Mars", "Jupiter", "Venus"],
+        answer: "Mars",
+      },
+      {
+        question: "What is the largest ocean on Earth?",
+        options: [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Arctic Ocean",
+          "Pacific Ocean",
+        ],
+        answer: "Pacific Ocean",
+      },
+      {
+        question: "Who invented the telephone?",
+        options: [
+          "Alexander Graham Bell",
+          "Nikola Tesla",
+          "Thomas Edison",
+          "Albert Einstein",
+        ],
+        answer: "Alexander Graham Bell",
+      },
+      {
+        question: "Which element is represented by the symbol 'O'?",
+        options: ["Oxygen", "Gold", "Silver", "Iron"],
+        answer: "Oxygen",
+      },
+      {
+        question: "Who was the first person to walk on the Moon?",
+        options: [
+          "Buzz Aldrin",
+          "Neil Armstrong",
+          "Yuri Gagarin",
+          "Michael Collins",
+        ],
+        answer: "Neil Armstrong",
+      },
+      {
+        question: "Which gas do plants absorb from the atmosphere?",
+        options: ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        answer: "Carbon Dioxide",
+      },
+      {
+        question: "What is the hardest natural substance on Earth?",
+        options: ["Gold", "Iron", "Diamond", "Quartz"],
+        answer: "Diamond",
+      },
+      {
+        question: "What is the currency of Japan?",
+        options: ["Yuan", "Ringgit", "Yen", "Won"],
+        answer: "Yen",
+      },
     ];
 
     const container = document.getElementById("container");
